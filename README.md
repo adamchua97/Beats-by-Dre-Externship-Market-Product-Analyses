@@ -69,14 +69,4 @@ This project presents a comprehensive market analysis and strategic recommendati
 This analysis provides a **data-driven roadmap** for Beats by Dre to **successfully enter the high-fidelity wireless speaker market**. With the right **product positioning, branding, and go-to-market strategy**, Beats has the potential to **capture a growing demand** and establish a strong presence in the premium speaker segment.
 
 ---
-
-### 📂 Repository Contents
-- 📄 **Market Analysis Report**
-- 📊 **Survey Data & Insights**
-- 🎯 **Go-to-Market Strategy**
-- 📝 **Risk & Competitive Assessment**
-
-🔗 **[Connect with Me](#)** for collaboration or inquiries!
-
----
 💡 *This project showcases expertise in market research, consumer insights, and strategic business recommendations.*
