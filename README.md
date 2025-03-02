@@ -5,6 +5,8 @@
 ## 🎯 Project Overview
 This project presents a comprehensive market analysis and strategic recommendation for **Beats by Dre** to launch a high-fidelity wireless speaker. The study synthesizes **market research, user surveys, competitive analysis, and go-to-market strategies** to evaluate the feasibility and positioning of the product in the premium audio market.
 
+## Data Dashboard: [Insights & Strategy Dashboard Link](https://claude.site/artifacts/4e492612-df94-4a54-8a3c-9fa0039e2763)
+
 ## 📊 Key Insights & Findings
 ### ✅ Recommendation Summary
 - **Launch a high-fidelity wireless speaker** to tap into strong user demand.
